@@ -93,7 +93,7 @@
     "expose-loader": "0.7.3",
     "file-loader": "0.11.1",
     "flow-bin": "0.45.0",
-    "flow-status-webpack-plugin": "git@github.com:marcellomontemagno/flow-status-webpack-plugin#bc495c6",
+    "flow-status-webpack-plugin": "0.7.1",
     "html-webpack-plugin": "2.30.1",
     "identity-obj-proxy": "3.0.0",
     "imports-loader": "0.7.1",
